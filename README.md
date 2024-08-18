@@ -7,7 +7,7 @@ Wikipedia Rat is a tool that allows remote control of computers. Built in C#, it
 
 ## Why Wikipedia Rat is Different
 
-- **HVNC (Hidden Virtual Network Computing):** Unlike other tools that charge for HVNC, Wikipedia Rat provides it for free, enhancing your remote access capabilities.
+- **(Hidden Computing):** Unlike other tools that charge for HVNC, Wikipedia Rat provides it for free, enhancing your remote access capabilities.
 - **Live Microphone:** Listen to the surroundings of the remote computer in real-time.
 - **Socks5 Reverse Proxy:** Bypass network restrictions and connect to remote systems effortlessly.
 - **Regular Updates:** Committed to keeping Wikipedia Rat up-to-date to ensure effectiveness and utility.
@@ -29,7 +29,7 @@ Wikipedia Rat is a tool that allows remote control of computers. Built in C#, it
 - Fun Menu (monitor on/off, CD tray open/close, etc.)
 
 ### Surveillance
-- HVNC (Hidden Virtual Network Computing)
+- Hidden Computing
 - Webcam
 - Live Microphone
 - Key Logger
