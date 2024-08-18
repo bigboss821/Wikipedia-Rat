@@ -1,0 +1,36 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.obj
+*.so
+*.dylib
+*.pdb
+*.idb
+*.lib
+*.a
+*.lo
+*.la
+*.al
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS-specific files #
+#####################
+.DS_Store
+Thumbs.db
+
+# Node modules #
+################
+node_modules/
