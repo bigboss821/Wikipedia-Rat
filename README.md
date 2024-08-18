@@ -79,7 +79,7 @@ Wikipedia Rat is a tool that allows remote control of computers. Built in C#, it
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
 
 ## Contributing
 
