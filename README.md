@@ -75,7 +75,7 @@ Wikipedia Rat is a tool that allows remote control of computers. Built in C#, it
 - **Instagram:** [@asrafulalamrabbe](https://www.instagram.com/asrafulalamrabbe/)
 - **Twitter/X:** [@AsrafulR3530](https://x.com/AsrafulR3530)
 
-https://raw.githubusercontent.com/bigboss821/Wikipedia-Rat/main/Wikipedia-Rat-cyberdefendx.png
+![Wikipedia Rat Overview](https://raw.githubusercontent.com/bigboss821/Wikipedia-Rat/main/Wikipedia-Rat-cyberdefendx2.png)
 
 ## License
 
