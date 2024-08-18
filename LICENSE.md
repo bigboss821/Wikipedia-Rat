@@ -47,4 +47,4 @@ Phone Number: +88 01406373389
 
 **By using the Software, you agree to the terms of this Paid License Agreement.**
 
-[Date]
+Sunday, August 18, 2024
